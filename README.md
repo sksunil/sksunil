@@ -1,11 +1,11 @@
 ### Hi, I'm Sunil Kumawat 👩🏾‍💻
 
-- 🌱 I’m MERN stack developer.
-- I ❤️ building new things and helping others 🤝. Learning something new everyday 🌞.
+- 🌱 I’m a MERN stack developer, primarily focused on Node.js
+- I ❤️ building new things and helping others 🤝. Learning something new every day 🌞.
 - Practicing clean code ✨.
-- 👯 I’m looking forward to collaborate.
-- I ❤️ internet of things and everything that smart 🧐.
-- Coding all day and everyday 🤟.
+- 👯 I’m looking forward to collaborating.
+- I ❤️ Internet of things and everything that is smart 🧐.
+- Coding all day and every day 🤟.
 - 🔥 Check out my [Portfolio!](https://sksunil.github.io/)
 
 
